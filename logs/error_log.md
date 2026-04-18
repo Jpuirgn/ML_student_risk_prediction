@@ -2,7 +2,7 @@
 
 ## 2026-04-18 ConvergenceWarning: lbfgs failed to converge
 
-![description](../docs/images/ConergenceWarning.png)
+![description](../docs/images/ConvergenceWarning.png)
 
 原因1:特征尺度差异较大
 逻辑回归对特征尺度比较敏感，如果有些列数值很小，有些列数值很大，优化会变得更困难
@@ -12,4 +12,4 @@
 solution:先对X做标准化，再重新训练Logistic Regression
 把不同特征拉到更接近的尺度，模型更容易收敛
 对训练集和测试集特征进行标准化
-![description](../docs/images/ConvergenceWarninig_normalization.png)
+![description](../docs/images/ConvergenceWarning_normalization.png)

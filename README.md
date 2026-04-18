@@ -1,7 +1,7 @@
 # Student Dropout Prediction - Machine Learning Project
 
 ## Introduction
-This is a small machine learning project built for practice and portfolio purposes.  
+This is a small machine learning project built for practice.  
 The project aims to predict students' academic outcomes based on demographic, academic, and social-related features.
 
 ## Project Goal

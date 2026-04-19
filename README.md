@@ -16,3 +16,7 @@ The main goal is to apply a complete machine learning workflow:
 Name: Predict Students' Dropout and Academic Success |
 Source: UCI Machine Learning Repository |
 Link:       https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
+
+
+Logistic Regression vs Random Forest
+![LR vs RF](docs/images/LR_RF_comaprison.png)

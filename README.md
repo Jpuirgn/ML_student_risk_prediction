@@ -19,4 +19,4 @@ Link:       https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and
 
 
 Logistic Regression vs Random Forest
-![LR vs RF](docs/images/LR_RF_comaprison.png)
+![LR vs RF](docs/images/LR_RF_comparison.png)

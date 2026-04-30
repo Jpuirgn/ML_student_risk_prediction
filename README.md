@@ -21,7 +21,7 @@ Link:       https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and
 Logistic Regression vs Random Forest
 ![LR vs RF](docs/images/LR_RF_comparison.png)
 
-##Findings
+## Findings
 The **Enrolled** class was the hardest class to predict for both models.
 The class also overlaps substantially with both other classes, which makes the decision boundary less clear.
 

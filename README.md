@@ -12,6 +12,9 @@ The main goal is to apply a complete machine learning workflow:
 - train classification models
 - evaluate model performance
 
+## Problem
+Why Logistic Regression Model and Random Forest Model are difficultly to classify Enrolled class?
+
 ## Dataset
 Name: Predict Students' Dropout and Academic Success |
 Source: UCI Machine Learning Repository |

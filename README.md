@@ -12,9 +12,6 @@ The main goal is to apply a complete machine learning workflow:
 - train classification models
 - evaluate model performance
 
-## Problem
-Why Logistic Regression Model and Random Forest Model are difficultly to classify Enrolled class?
-
 ## Dataset
 Name: Predict Students' Dropout and Academic Success |
 Source: UCI Machine Learning Repository |
@@ -32,3 +29,4 @@ The class also overlaps substantially with both other classes, which makes the d
 Random Forest is the stronger model at the current stage because it provides slightly better overall and more balanced performance.  
 However, both models still struggle with the **Enrolled** class.  
 This suggests that the main challenge is not simply model choice, but the fact that the **Enrolled** class has less distinct boundaries in important feature space.
+ 
